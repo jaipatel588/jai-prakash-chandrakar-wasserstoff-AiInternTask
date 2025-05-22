@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+Pillow
+pdf2image
+PyMuPDF
+langchain
+faiss-cpu
+openai
+tqdm
+pydantic
+python-docx
+chardet
