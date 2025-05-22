@@ -6,7 +6,7 @@
 - FastAPI backend
 - OpenAI-powered semantic search
 - Theme synthesis and citation
-- Deployable via Render or Replit
+- Deployable in Replit
 
 ## How to Run
 1. Clone repo
